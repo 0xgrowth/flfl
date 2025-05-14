@@ -1,0 +1,7 @@
+.env
+node_modules
+dist
+s.js
+uploads
+test
+package-lock.json
